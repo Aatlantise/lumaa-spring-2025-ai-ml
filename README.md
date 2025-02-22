@@ -1,4 +1,4 @@
-# Junghyun Min's solution to Lumaa's AI/ML coding challenge
+Junghyun Min's solution to Lumaa's AI/ML coding challenge
 ---
 
 ## Overview
@@ -69,7 +69,7 @@ Enter your query. To exit, press ctrl + c.
 ---
 
 ## Demo Video
-[Placeholder link]()
+The demo video is accessible [here](https://drive.google.com/file/d/1ttzqM-51Msi5-2WtAZ0zCSb1n1zsblcd/view?usp=sharing).
 
 ---
 
