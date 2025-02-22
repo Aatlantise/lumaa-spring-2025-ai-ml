@@ -1,0 +1,5 @@
+.venv/*
+lumaa/*
+.idea/*
+__pycache__/*
+*.bib*
